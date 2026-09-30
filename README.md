@@ -93,6 +93,9 @@ See [the evaluation guide](evals/README.md) and [ten cases](evals/cases.json). T
 
 ## Contribute
 
+**Contributions welcome:** help test real OpenCode behavior, improve examples, report bugs, or suggest focused enhancements. Start with [open issues](https://github.com/asadullah48/opencode-prompt-forge/issues), comment on a task you want to take, and submit a pull request from your fork. First-time contributors are welcome.
+
+
 See [CONTRIBUTING.md](CONTRIBUTING.md). Useful contributions include recorded evaluations, clearer examples, and reproducible compatibility fixes. Keep the core skill small and model-neutral.
 
 ## Attribution and license
